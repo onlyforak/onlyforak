@@ -1,7 +1,7 @@
 ### Hi there 👋 
 There are flowers for you https://github.com/onlyforak/project-101 :)  
 And check overview activity ;)  
-(!NEW) There is bot https://github.com/onlyforak/project-bot!
+(!NEW) There is bot https://github.com/onlyforak/project-bot! Test him!
 
 <!--
 **onlyforak/onlyforak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
